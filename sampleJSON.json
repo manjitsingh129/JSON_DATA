@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John",
+      "department": "Engineering",
+      "skills": ["Python", "Java", "C++"]
+    },
+    {
+      "id": 2,
+      "name": "Alice",
+      "department": "Marketing",
+      "skills": ["Marketing Strategy", "Social Media", "Content Creation"]
+    },
+    {
+      "id": 3,
+      "name": "Bob",
+      "department": "HR",
+      "skills": ["Recruitment", "Employee Relations", "Training"]
+    }
+  ]
+}
